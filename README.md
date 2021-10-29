@@ -6,3 +6,12 @@ A joule thief is a minimalist self-oscillating voltage booster that is small, lo
 
 Here is a record of my production process.
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3291.JPG "Joule-Thief")
+<BR><BR><BR><BR>
+# Hardware
+* 1k Ohm Resistor x 1
+* NPN Transistor x 1
+* Axial Leaded Inductors x 2
+* LED x 6
+
+![github](https://github.com/James-workshop/Joule-Thief/blob/main/2021-10-29%2001.50.52.png "Schematic")
+<BR><BR><BR><BR>
