@@ -15,3 +15,12 @@ Here is a record of my production process.
 
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/2021-10-29%2001.50.52.png "Schematic")
 <BR><BR><BR><BR>
+## PCB
+I made a PCB at JLCPCB.com, which makes it very easy to make!
+
+![github](https://github.com/James-workshop/Joule-Thief/blob/main/2021-10-29%2010.16.43.png "Joule-Thief-2.0")
+
+### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
+### New registered users offer , **Order here https://jlcpcb.com/HAR**
+### You can use my Gerber file to place an order at JLCPCB.com
+<BR><BR><BR>
