@@ -2,7 +2,7 @@
 uses 3 pcs of PCB to make the Joule Thief look like a battery
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_33411.jpg "Joule-Thief")
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3345.JPG "Joule-Thief")
-![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3346.jpg "Joule-Thief")
+![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3346.JPG "Joule-Thief")
 
 ##What Is A Joule Thief ?
 A joule thief is a minimalist self-oscillating voltage booster that is small, low-cost, and easy to build, typically used for driving small loads. 
