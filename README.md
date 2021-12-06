@@ -47,15 +47,23 @@ V2.1
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202021-12-07%2002.52.55.png "PCB2.1")
   <BR><BR>
   
-V1.1
+V2.0
 * First version
   -Wrong design
   
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202021-11-02%2016.24.38.png "PCB")
   <BR><BR><BR><BR>
 ## How to make<BR>
+  * V2.0
   <a href="https://youtu.be/INWMuf0JuYc">https://youtu.be/INWMuf0JuYc</a>
     ![github](https://github.com/James-workshop/Joule-Thief/blob/main/cover%20photo%203.jpg "Youtube Cover Photo")
+    <BR><BR>
+  * V2.1
+  <a href="https://youtu.be/3Ixks2IbIFE">https://youtu.be/3Ixks2IbIFE</a>
+    ![github](https://github.com/James-workshop/Joule-Thief/blob/main/cover_photo%202.jpg "Youtube Cover Photo")
+    <BR><BR>
+    
+    
 
   
   
