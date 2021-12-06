@@ -1,6 +1,6 @@
 # Joule-Thief-2.1
 uses 3 pcs of PCB to make the Joule Thief look like a battery
-![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_33411.jpg "Joule-Thief")
+
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3345.JPG "Joule-Thief")
 ![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3346.JPG "Joule-Thief")
 
@@ -22,7 +22,7 @@ The circuit is super simple, can easily be assembled on a breadboard, or can be 
 For simplicity and beauty, I made PCB for it
 
 Here is a record of my production process.
-![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_3291.JPG "Joule-Thief")
+![github](https://github.com/James-workshop/Joule-Thief/blob/main/IMG_33411.jpg "Joule-Thief")
 <BR><BR><BR><BR>
 # Hardware
 * 1k Ohm Resistor x 1
